@@ -1,4 +1,4 @@
-# 💫Tirumalai_Vasan:
+# Tirumalai_Vasan - TV
 Computer Science Graduate with a passion for Artificial Intelligence and Data Science.<br>Currently expanding my skills in Python and Machine Learning while building practical projects for my Portfolio.
 
 # 💻 Tech Stack:
